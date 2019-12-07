@@ -22,16 +22,37 @@ This has been forked by Gitmoji.
 
 ## Idea
 
-| mean           | emoji | detail                                            |
-| -------------- | ----- | ------------------------------------------------- |
-| release        | 🎉    | release (& initial commit)                        |
-| feature        | 🔼    | add new feature                                   |
-| fix            | 🚑    | fix bug                                           |
-| remove         | 🔥    | remove feature or files                           |
-| refactor       | ✨    | refactor. does't change feature. (include rename) |
-| revert         | ⏪    | revert.                                           |
-| change         | 🔧    | change config in application                      |
-| project config | 🍀    | change or add development environment settings    |
+### Syntax
+
+```
+{where}{what}:{message}
+```
+
+ex.
+🔼: animation feature
+🔥: no_need.html
+📘✨: typo
+🌳🔧: node version
+
+### where
+
+| mean    | emoji    | detail                   |
+| ------- | -------- | ------------------------ |
+| app     | nothing! | application              |
+| project | 🌳       | development environment  |
+| docs    | 📘       | datamations (ex. README) |
+
+### what
+
+| mean     | emoji | detail                                            |
+| -------- | ----- | ------------------------------------------------- |
+| feature  | 🔼    | add new feature                                   |
+| fix      | 🚑    | fix bug                                           |
+| refactor | ✨    | refactor. does't change feature. (include rename) |
+| change   | 🔧    | change config                                     |
+| remove   | 🔥    | remove feature or files                           |
+| revert   | ⏪    | revert.                                           |
+| release  | 🎉    | release (& initial commit)                        |
 
 ---
 
