@@ -12,7 +12,8 @@ const About = () => (
     <Layout headerWithSocialButtons>
       <section>
         <h1>About</h1>
-
+        <p>This page is my Gitmoji setting docs.</p>
+        <p>This has been forked by <strong>Gitmoji</strong>.</p>
         <p>
           <strong>Gitmoji is an emoji guide for GitHub commit messages</strong>.
           Aims to be a standarization cheatsheet - guide for using{' '}
