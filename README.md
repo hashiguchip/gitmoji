@@ -25,14 +25,18 @@ This has been forked by Gitmoji.
 ### Syntax
 
 ```
-{where}{what}:{message}
+{where}{what} {message}
 ```
 
 ex.
-🔼: animation feature
-🔥: no_need.html
-📘✨: typo
-🌳🔧: node version
+
+🔼 animation feature
+
+🔥 no_need.html
+
+📘✨ typo
+
+🌳🔧 node version
 
 ### where
 
