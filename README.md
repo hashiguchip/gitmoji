@@ -29,7 +29,7 @@ This has been forked by Gitmoji.
 | fix            | 🚑    | fix bug                                           |
 | remove         | 🔥    | remove feature or files                           |
 | refactor       | ✨    | refactor. does't change feature. (include rename) |
-| revert         | ⏪    | refactor. does't change feature. (include rename) |
+| revert         | ⏪    | revert.                                           |
 | change         | 🔧    | change config in application                      |
 | project config | 🍀    | change or add development environment settings    |
 
